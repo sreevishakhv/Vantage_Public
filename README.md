@@ -21,7 +21,7 @@ Follow these steps to set up the project environment.
 1.  **Clone the Repository**
     Clone this repository to your local machine:
     ```bash
-    git clone $THIS_REPO (Removed for anonymous github) 
+    git clone https://github.com/sreevishakhv/Vantage_Public.git
     cd Vantage
     ```
 
