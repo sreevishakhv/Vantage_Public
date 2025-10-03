@@ -40,7 +40,7 @@ python interpolate.py --input data_from_joystick.json --output interpolated.json
 ## 4. Get actions as a JSON file
 ### 4a. Actions as change in x,y and z coordinates
 > [!IMPORTANT]
-> This can be skipped if using ACT policy as this directly uses the joint angles
+> This can be skipped if using ACT policy as it directly uses the joint angles
 - Use `apply_forward_kinematics.py` to process the interpolated data and compute the forward kinematics.
 - This step will save the actions part of the dataset as delta xyz. 
 - Applying forward kinematics
